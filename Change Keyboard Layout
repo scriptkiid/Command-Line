@@ -1,0 +1,2 @@
+reg add "HKCU\Keyboard Layout\Toggle" /v "Language Hotkey" /d 4 /f
+reg add "HKCU\Keyboard Layout\Toggle" /v "Hotkey" /d 4 /f
